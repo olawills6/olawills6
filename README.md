@@ -4,6 +4,7 @@
 
 - <b>Azure / Projects</b>
   - [Creating a Live Soc / Honeynet in Azure](https://github.com/olawills6/Azure-Soc)
+
 <h2> 🤳 Connect with me:</h2>
 
 [linkedin]: https//linkedin.com/in/yinka-w-9393b260
