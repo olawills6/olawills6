@@ -7,7 +7,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https//linkedin.com/in/yinka-w-9393b260
+[linkedin]: (https://www.linkedin.com/in/yinka-w-9393b260/)
 
 <!--
 **olawills6/olawills6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
