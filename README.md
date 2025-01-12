@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yinka! Passionate Cybersecurtity and GRC Analyst</h1>
+<h1>Hi, I'm Yinka! Passionate Cybersecurity and GRC Analyst</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
